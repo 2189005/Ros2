@@ -10,7 +10,7 @@ int main() {
     img = imread(folder + "lena.bmp");
     namedWindow("lena");
     imshow("lena", img);
-    while(waitKey(0) == -1){
+    while(waitKey(0) != -1){
         //int key = waitKey(0);
         //cout << key << endl;
         moveWindow("lena", 50, 0);
