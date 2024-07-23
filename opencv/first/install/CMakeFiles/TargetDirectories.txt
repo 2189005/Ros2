@@ -1,0 +1,3 @@
+/home/lab/Ros2/opencv/first/install/CMakeFiles/helloworld.dir
+/home/lab/Ros2/opencv/first/install/CMakeFiles/edit_cache.dir
+/home/lab/Ros2/opencv/first/install/CMakeFiles/rebuild_cache.dir
