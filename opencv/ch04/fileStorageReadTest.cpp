@@ -11,7 +11,7 @@ int main()
     String name;
     Mat img;
 
-    fs.open(folder + "myData.json", FileStorage::WRITE);
+    fs.open(folder + "myData.json", FileStorage::READ);
     if (!fs.isOpened())
     {
         cerr << "file open failed" << endl;
