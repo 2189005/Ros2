@@ -1,7 +1,7 @@
 {
     "configurations": [
         {
-            "name": "Ros2",
+            "name": "ros2",
             "includePath": [
                 "/usr/include/**"
             ],
