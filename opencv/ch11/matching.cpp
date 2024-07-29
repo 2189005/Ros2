@@ -3,7 +3,7 @@
 
 using namespace cv;
 using namespace std;
-String folderPath = "/home/aa/kuIotBigdataClass/openCV/data/";
+String folderPath = "/home/lab/Ros2/opencv/data/";
 void keypoint_matching();
 void good_matching();
 void find_homography();
